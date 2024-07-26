@@ -1,0 +1,13 @@
+serve:
+  port: 80
+  browser: false
+  playground: true
+  endpoint: /ogc
+  playgroundTitle: OGC PDOK Playground
+
+sources:
+  - name: BGT
+    handler:
+      openapi:
+        source: https://api.pdok.nl/lv/bgt/ogc/v1/api?f=json
+        endpoint: https://api.pdok.nl/lv/bgt/ogc/v1/api
