@@ -1,4 +1,4 @@
-FROM node:20.18-alpine3.20@sha256:95cae22cce3fd476d88b8139397f534e853f16ae740c22b9ada0a2504a6abb01
+FROM node:20.18-alpine3.20@sha256:a85a59e366f0a78148549ba6840bcced0a8d99a8d67f05a0a9650d1c96c88ecf
 
 #LABEL org.opencontainers.image.description DESCRIPTION
 #LABEL org.opencontainers.image.authors "Anjo KLABEL olk, anjo.kolk@gmail.com"
