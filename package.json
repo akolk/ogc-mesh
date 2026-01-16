@@ -24,7 +24,7 @@
     "@graphql-mesh/transform-hoist-field": "0.105.20",
     "@graphql-mesh/tuql": "0.105.18",
     "@graphql-tools/utils": "10.11.0",
-    "@graphql-mesh/config": "0.108.23",
+    "@graphql-mesh/config": "0.108.24",
     "@graphql-mesh/odata": "0.106.21",
     "@graphql-mesh/runtime": "0.106.20",
     "moment": "2.30.1",
